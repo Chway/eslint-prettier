@@ -1,0 +1,12 @@
+{
+  "name": "linting",
+  "version": "1.0.0",
+  "devDependencies": {
+    "eslint": "^8.15.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-config-xo": "^0.41.0",
+    "eslint-config-xo-space": "^0.33.0",
+    "eslint-plugin-unicorn": "^42.0.0",
+    "prettier": "^2.6.2"
+  }
+}
